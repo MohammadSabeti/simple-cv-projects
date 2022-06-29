@@ -1,6 +1,4 @@
-# simple-cv-projects
-
-Simple Computer Vision Projects :
+# Simple Computer Vision Projects
 
 
 Virtual Paint (Project 01)
